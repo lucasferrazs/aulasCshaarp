@@ -42,14 +42,14 @@ Console.WriteLine("Pressione qualquer tecla para sair...");
 Console.ReadKey();
    
    /*
-   
+
    Exercício de dias da semana: Crie um programa que lê um número de 1 a 7 
    e imprime o dia da semana correspondente. Use um comando switch para 
    selecionar o dia da semana com base no número digitado. Por exemplo, 
    se o usuário digitar 1, o programa deve imprimir "Domingo". Se o usuário 
    digitar 7, o programa deve imprimir "Sábado".
 
-    Exercício de operações matemáticas: Crie um programa que lê dois números 
+   Exercício de operações matemáticas: Crie um programa que lê dois números 
     e um operador (como '+', '-', '*' ou '/'). Em seguida, use um comando 
     switch para realizar a operação matemática correspondente. 
     Por exemplo, se os números forem 3 e 4, e o operador for '+', 
@@ -60,4 +60,4 @@ Console.ReadKey();
     para imprimir uma frase que descreve a cor. Por exemplo, se o usuário 
     digitar "red", o programa pode imprimir "Red is the color of apples 
     and roses."
-   */
+    */

@@ -22,8 +22,8 @@ Propriedades (get e set)
 
 Herança
 
-O que é herança?
-Classe base e classe derivada
+O que é herança?(feito)
+Classe base e classe derivada(feito)
 Herança simples e múltipla
 A palavra-chave "base"
 Modificadores de acesso e herança (protected)

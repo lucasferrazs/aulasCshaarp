@@ -30,6 +30,11 @@ public class Program
     {
         // Criação do objeto "pessoa1" utilizando a classe Pessoa
         Pessoa pessoa1 = new Pessoa("Maria", 30);
+        Pessoa pessoa2 = new Pessoa("Lucas", 18);
+        Pessoa pessoa3 = new Pessoa("Pedro", 23);
+        Pessoa pessoa4 = new Pessoa("Miguel", 25);
+        Pessoa pessoa5 = new Pessoa("Gabriel", 17);
+        Pessoa pessoa6 = new Pessoa("Ana", 15);
 
         // Utilizando o método "ExibirInfo()" do objeto "pessoa1"
         pessoa1.ExibirInfo();

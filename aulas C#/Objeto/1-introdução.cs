@@ -15,9 +15,11 @@ mundo real de forma mais fácil e organizada.
 /*
 O que é uma classe?
 Uma classe é um modelo ou um esquema usado para criar objetos.
-Ela define a estrutura e o comportamento de um objeto, especificando suas propriedades e métodos.
-Classes são como plantas que descrevem o formato, os atributos e as ações de um objeto. 
-Elas fornecem um meio de organizar e reutilizar código, facilitando a manutenção e a escalabilidade do software.
+Ela define a estrutura e o comportamento de um objeto, especificando
+suas propriedades e métodos.Classes são como plantas que descrevem o 
+formato, os atributos e as ações de um objeto. Elas fornecem um meio 
+de organizar e reutilizar código, facilitando a manutenção e a 
+escalabilidade do software.
 
 
 Por que usar objetos e classes?
