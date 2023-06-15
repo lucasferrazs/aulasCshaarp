@@ -60,6 +60,16 @@ public int Soma(int a, int b)
     return resultado;
 }
 
-int result = Soma(3, 5); 
-console.WriteLine(result)
+int result = Soma(3, 5);
+int result2 = Soma(10,15); 
+int result3 = Soma(15,75); 
+int result4 = Soma(12,54); 
+int result5 = Soma(86,23); 
+int result6 = Soma(2000,789); 
+console.WriteLine(result);
+console.WriteLine(result2);
+console.WriteLine(result3);
+console.WriteLine(result4);
+console.WriteLine(result5);
+console.WriteLine(result6);
 

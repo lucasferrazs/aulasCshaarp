@@ -1,8 +1,8 @@
 /*Atributos estáticos e métodos estáticos são membros de uma classe 
 que não estão associados a um objeto específico dessa classe. 
-Eles pertencem à classe em si e são compartilhados entre todas as instâncias da classe. 
-Isso significa que você pode acessá-los diretamente através do nome da classe,
-sem criar um objeto.
+Eles pertencem à classe em si e são compartilhados entre todas as instâncias 
+da classe. Isso significa que você pode acessá-los diretamente através 
+do nome da classe,sem criar um objeto.
 */
 
 // Arquivo: Contador.cs
@@ -10,7 +10,8 @@ using System;
 
 public class Contador
 {
-    // Atributo estático que será compartilhado entre todas as instâncias da classe Contador
+    // Atributo estático que será compartilhado entre todas as 
+    // instâncias da classe Contador
     public static int TotalContadores { get; private set; }
 
     // Propriedade não estática (associada a cada objeto)
@@ -19,7 +20,8 @@ public class Contador
     // Construtor da classe Contador
     public Contador()
     {
-    // Incrementa o atributo estático TotalContadores sempre que uma nova instância é criada
+    // Incrementa o atributo estático TotalContadores sempre 
+    //que uma nova instância é criada
         TotalContadores++;
         Valor = 0;
     }
@@ -41,14 +43,16 @@ public class Program
 {
     public static void Main()
     {
-        // Acessando o atributo estático TotalContadores diretamente através do nome da classe
+        // Acessando o atributo estático TotalContadores 
+        //diretamente através do nome da classe
         Console.WriteLine($"Total de contadores: {Contador.TotalContadores}");
 
         // Criando instâncias da classe Contador
         Contador contador1 = new Contador();
         Contador contador2 = new Contador();
 
-        // Acessando o método estático ObterTotalContadores através do nome da classe
+        // Acessando o método estático ObterTotalContadores 
+        // através do nome da classe
         Console.WriteLine($"Total de contadores: {Contador.ObterTotalContadores()}");
 
         // Usando um método não estático para incrementar o valor de cada contador

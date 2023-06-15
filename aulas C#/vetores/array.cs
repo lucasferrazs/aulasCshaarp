@@ -44,3 +44,17 @@ for (int i = 0; i < nomes.Length; i++)
 // Aguarda o usuário pressionar uma tecla para encerrar o programa.
 Console.WriteLine("Pressione qualquer tecla para sair...");
 Console.ReadKey();
+
+/*
+Encontrar o máximo e mínimo:
+Escreva um programa que encontre o valor máximo e mínimo em um array de inteiros.
+
+Calcular a média:
+Escreva um programa que calcule a média dos elementos em um array de números.
+
+Encontrar a soma:
+Escreva um programa que encontre a soma de todos os elementos em um array de números.
+
+Verificar se o array está ordenado:
+Escreva um programa que verifique se um array está ordenado em ordem crescente.
+*/

@@ -44,8 +44,8 @@ public class Program
         string nome = pessoa.Nome;
         int idade = pessoa.Idade;
 
-        System.Console.WriteLine("Nome: " + nome);
-        System.Console.WriteLine("Idade: " + idade);
+        Console.WriteLine("Nome: " + nome);
+        Console.WriteLine("Idade: " + idade);
     }
 }
 /*

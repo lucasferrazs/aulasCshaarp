@@ -63,7 +63,7 @@ public class Gato : ICaminhante, ICacador
 }
 
 /*
-
+639607@profe.sed.sc.gov.br
 Crie duas interfaces, ILeitor e IEscritor, cada uma com um método, Ler e Escrever 
 respectivamente. Crie uma classe Usuario que implementa ambas as interfaces. 
 O método Ler deve imprimir "Lendo..." e o método Escrever deve imprimir 

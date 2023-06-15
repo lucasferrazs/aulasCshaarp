@@ -1,4 +1,5 @@
-/*Tabuada:
+/*
+Tabuada:
 Peça ao usuário para inserir um número inteiro e exiba a tabuada desse número de 1 a 10.
 
 Soma dos N primeiros números:

@@ -24,16 +24,16 @@ Herança
 
 O que é herança?(feito)
 Classe base e classe derivada(feito)
-Herança simples e múltipla
-A palavra-chave "base"
-Modificadores de acesso e herança (protected)
+Herança simples e múltipla(feirto)
+A palavra-chave "base"(feito)
+Modificadores de acesso e herança (protected) (feito)
 
 Polimorfismo
 
-O que é polimorfismo?
+O que é polimorfismo?(feito)
 Polimorfismo de sobrecarga
-Polimorfismo de sobrescrita
-Palavras-chave "virtual", "override" e "new"
+Polimorfismo de sobrescrita(feito)
+Palavras-chave "virtual", "override" e "new"(feito)
 
 Abstração e Interfaces
 
