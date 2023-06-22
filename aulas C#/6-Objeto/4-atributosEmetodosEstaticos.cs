@@ -81,3 +81,48 @@ Incrementar(),
 que servem como exemplo para mostrar a diferença entre membros estáticos e não estáticos.
 
 */
+/*
+Exercício 1
+
+Crie uma classe chamada Calculadora que contém um método estático 
+chamado adicionar. Este método deve receber dois argumentos e 
+retornar a soma dos mesmos. Teste este método, chamando-o com 
+dois números quaisquer.
+
+Exercício 2
+
+Agora, adicione à classe Calculadora três métodos estáticos 
+adicionais: subtrair, multiplicar e dividir. Cada um desses 
+métodos deve realizar a operação correspondente aos dois 
+números passados como argumentos. Certifique-se de tratar 
+a possibilidade de divisão por zero no método dividir.
+
+Exercício 3
+
+Crie uma classe chamada Contador. Essa classe deve ter 
+um atributo estático privado chamado contagem, que é 
+inicialmente 0. Além disso, a classe deve ter três 
+métodos estáticos:
+
+incrementar: isso deve aumentar a contagem em 1.
+resetar: isso deve resetar a contagem para 0.
+getContagem: isso deve retornar o valor atual da contagem.
+
+Exercício 4
+
+Adicione um método estático à classe Calculadora chamado 
+raiz_quadrada. Esse método deve receber um número como 
+argumento e retornar a raiz quadrada desse número. 
+Teste este método com um número positivo, um número 
+negativo (para verificar como o erro é tratado) e zero.
+
+Exercício 5
+
+Crie uma classe Circulo que contém:
+
+Um atributo estático pi que é inicializado como 3.14159.
+Um método estático area que recebe um argumento raio e 
+retorna a área do círculo (usando a fórmula pi * raio * raio).
+Um método estático circunferencia que recebe um argumento 
+raio e retorna a circunferência do círculo (usando a fórmula 2 * pi * raio).
+*/

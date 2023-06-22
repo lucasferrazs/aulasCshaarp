@@ -15,7 +15,7 @@ Abaixo segue uma tabela verdade para as operações lógicas E e OU:
 
 | Expressão 1 | Expressão 2 | E (&&) | OU (||) |
 |-------------|-------------|--------|---------|
-| Falso | Falso |              Falso | Falso |
+| Falso |         Falso |      Falso | Falso |
 | Falso | Verdadeiro|          Falso | Verdadeiro|
 | Verdadeiro| Falso |          Falso | Verdadeiro|
 | Verdadeiro| Verdadeiro|    Verdadeiro|Verdadeiro|

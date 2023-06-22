@@ -37,3 +37,13 @@ else {
     Console.Write("Boa noite");
 }
 
+
+
+string resposta = Console.readLine();
+
+//calculadora
+if(reposta === "s" || reposta === "S" || reposta === "sim"){
+     Console.WriteLine("abrir a porta");
+}else if(resposta === "n"){
+     Console.WriteLine("nao abrir a porta");
+}
