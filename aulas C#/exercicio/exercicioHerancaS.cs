@@ -13,7 +13,7 @@ o barulho que o cachorro faz.
 
 Exercício 2:
 
-Crie uma classe abstrata chamada Veículo com as propriedades marca, modelo e ano, 
+Crie uma classe chamada Veículo com as propriedades marca, modelo e ano, 
 e um método Ligar(). A classe Carro deve herdar de Veículo e deve implementar 
 o método Ligar() para imprimir na tela "O carro está ligado".
 Instancie um objeto da classe Carro e chame o método Ligar().

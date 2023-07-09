@@ -27,11 +27,11 @@ public class Gato : Animal
     }
 }
 /*
-Herança Múltipla: Na herança múltipla, uma classe pode herdar de várias classes. 
-Ou seja, uma classe derivada pode ter várias classes base. Embora a herança
-múltipla possa parecer útil à primeira vista, ela também pode levar a uma grande 
-quantidade de confusão quando duas classes base têm propriedades 
-ou métodos com o mesmo nome.
+Herança Múltipla: Na herança múltipla, uma classe pode herdar de várias 
+classes. Ou seja, uma classe derivada pode ter várias classes base. 
+Embora a herança múltipla possa parecer útil à primeira vista, ela 
+também pode levar a uma grande quantidade de confusão quando duas classes 
+base têm propriedades ou métodos com o mesmo nome.
 
 Em C#, a herança múltipla de classes não é suportada devido à 
 ambiguidade que ela pode causar. No entanto, C# suporta herança
@@ -63,7 +63,9 @@ public class Gato : ICaminhante, ICacador
 }
 
 /*
+
 639607@profe.sed.sc.gov.br
+
 Crie duas interfaces, ILeitor e IEscritor, cada uma com um método, Ler e Escrever 
 respectivamente. Crie uma classe Usuario que implementa ambas as interfaces. 
 O método Ler deve imprimir "Lendo..." e o método Escrever deve imprimir 
